@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
                 displayTextView.text = "Please enter your name"
             }
         }
+        "Commit and pushing because it doesn't show that I push "
 
 
     }
